@@ -1,0 +1,21 @@
+#btnx{
+    color: red;
+    font-weight: bold;
+    border: none;
+    outline: none;
+}
+
+#btnx:hover{
+    color: black;
+    background-color: aqua;
+    border-radius: 50px;
+}
+
+.container{
+    width: 520px;
+}
+
+.container h2{
+    text-align: center;
+    font-size: 40px;
+}
